@@ -1,4 +1,4 @@
-![image](https://github.com/rohitmishra0/rohitmishra0/assets/165405369/6754a5cf-b134-4a85-b70e-f3c7b7edf548)## Hi there 👋
+## Hi there 👋
 
 <!--
 **rohitmishra0/rohitmishra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
