@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A 3rd Year Undergrad in the Department of CSE from CV Raman Global Global University </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
