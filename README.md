@@ -7,8 +7,6 @@
 
 - 👨‍💻See my Profile-Card [https://rohitmishra0.github.io/Profile-Card/](https://rohitmishra0.github.io/Profile-Card/)
 
-- 📝Sometimes, I write articles on [https://wizdomwave.blogspot.com/](https://wizdomwave.blogspot.com/)
-
 - 📫Can mail at **mrohit6353@gmail.com**
 
 - 📄Know more about me through my resume [https://drive.google.com/file/d/19ImWK3Rdts_yffeKKJu7SOFuAvr98lRW/view?usp=sharing](https://drive.google.com/file/d/19ImWK3Rdts_yffeKKJu7SOFuAvr98lRW/view?usp=sharing)
